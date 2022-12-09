@@ -1,0 +1,2 @@
+# Pokedex-Manual Do Dev
+ 
